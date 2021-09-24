@@ -1,0 +1,4 @@
+2021/09/24-20:13:08.246 1c14 Reusing MANIFEST F:\QUPS\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/24-20:13:08.249 1c14 Recovering log #10
+2021/09/24-20:13:08.261 1c14 Reusing old log F:\QUPS\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000010.log 
+2021/09/24-20:13:46.358 1950 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,19 @@
+2021/09/24-20:07:35.213 4084 Reusing MANIFEST F:\QUPS\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/24-20:07:35.217 4084 Recovering log #6
+2021/09/24-20:07:35.708 4084 Reusing old log F:\QUPS\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000006.log 
+2021/09/24-20:07:44.675 4084 Compacting 1@1 + 1@2 files
+2021/09/24-20:07:45.350 4084 Generated table #9@1: 1027 keys, 74230 bytes
+2021/09/24-20:07:45.350 4084 Compacted 1@1 + 1@2 files => 74230 bytes
+2021/09/24-20:07:45.382 4084 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/24-20:08:22.272 4084 Level-0 table #11: started
+2021/09/24-20:08:22.395 4084 Level-0 table #11: 301833 bytes OK
+2021/09/24-20:08:22.446 4084 Delete type=2 #5
+2021/09/24-20:08:22.462 4084 Delete type=0 #6
+2021/09/24-20:08:22.462 4084 Delete type=2 #7
+2021/09/24-20:08:22.465 4084 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/09/24-20:08:24.217 3890 Compacting 1@1 + 1@2 files
+2021/09/24-20:08:24.263 3890 Generated table #12@1: 178 keys, 16616 bytes
+2021/09/24-20:08:24.263 3890 Compacted 1@1 + 1@2 files => 16616 bytes
+2021/09/24-20:08:24.296 3890 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/24-20:08:24.297 3890 Delete type=2 #9
+2021/09/24-20:08:24.297 3890 Delete type=2 #11
